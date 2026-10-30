@@ -105,15 +105,38 @@ Screenshots, workflow diagrams, and additional documentation will be added to th
 
 Explore the project documentation:
 
-Explore the project documentation:
-
 - [Business Rules](documentation/business-rules.md)
 - [Workflow Overview](documentation/workflow-overview.md)
 - [Workflow Diagram](documentation/workflow-diagram.png)
 
 ## Screenshots
 
-Screenshots demonstrating the actual Make.com scenarios, lead tracking spreadsheet, and automated email examples will be added here.
+## Project Screenshots
+
+### Lead Qualification Workflow
+![Lead Qualification Workflow](screenshots/lead-qualification-workflow.png)
+
+### Lead Scoring Configuration
+![Lead Scoring Configuration](screenshots/lead-scoring-setup.png)
+
+### High-Priority Lead Routing
+![High-Priority Routing](screenshots/high-priority-routing.png)
+
+### Google Sheets Lead Tracking
+![Google Sheets Leads](screenshots/google-sheets-leads.png)
+
+### Customer Confirmation Email
+![Customer Confirmation](screenshots/customer-confirmation-email.png)
+
+### Automated Follow-Up Workflow
+![Follow-Up Workflow](screenshots/follow-up-workflow.png)
+
+### Follow-Up Filter
+![Follow-Up Filter](screenshots/follow-up-filter.png)
+
+### Follow-Up Email
+![Follow-Up Email](screenshots/follow-up-email.png)
+
 
 ## Future Improvements
 
