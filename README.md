@@ -47,6 +47,8 @@ This automation streamlines that process using connected business applications a
 
 ## Workflow
 ![Business Lead Qualification Workflow](diagrams/workflow-diagram.png)
+
+
 ### 1. Lead Qualification
 
 Google Forms captures the inquiry. Make.com processes the submission, calculates the lead score, assigns a category, and updates the Google Sheets record.
