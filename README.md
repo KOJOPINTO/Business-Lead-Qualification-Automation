@@ -113,30 +113,29 @@ Explore the project documentation:
 
 ## Project Screenshots
 
-### Lead Qualification Workflow
+### 1. Lead Qualification Workflow
 ![Lead Qualification Workflow](screenshots/lead-qualification-workflow.png)
 
-### Lead Scoring Configuration
+### 2. Lead Scoring Configuration
 ![Lead Scoring Configuration](screenshots/lead-scoring-setup.png)
 
-### High-Priority Lead Routing
+### 3. High-Priority Lead Routing
 ![High-Priority Routing](screenshots/high-priority-routing.png)
 
-### Google Sheets Lead Tracking
+### 4. Google Sheets Lead Tracking
 ![Google Sheets Leads](screenshots/google-sheets-leads.png)
 
-### Customer Confirmation Email
+### 5. Customer Confirmation Email
 ![Customer Confirmation](screenshots/customer-confirmation-email.png)
 
-### Automated Follow-Up Workflow
+### 6. Automated Follow-Up Workflow
 ![Follow-Up Workflow](screenshots/follow-up-workflow.png)
 
-### Follow-Up Filter
+### 7. Follow-Up Filter
 ![Follow-Up Filter](screenshots/follow-up-filter.png)
 
-### Follow-Up Email
+### 8. Follow-Up Email
 ![Follow-Up Email](screenshots/follow-up-email.png)
-
 
 ## Future Improvements
 
