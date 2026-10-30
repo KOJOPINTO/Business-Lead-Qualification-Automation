@@ -45,7 +45,7 @@ This automation streamlines that process using connected business applications a
 - Medium: 4–6 points
 - Low: 0–3 points
 
-## Workflow
+## Workflow Diagram
 
 ![Business Lead Qualification Workflow](documentation/diagrams/workflow-diagram.png)
 
