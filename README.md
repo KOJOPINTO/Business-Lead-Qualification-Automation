@@ -98,6 +98,26 @@ The lead qualification and scheduled follow-up workflows have been configured an
 
 Screenshots, workflow diagrams, and additional documentation will be added to this repository as the project portfolio is developed.
 
+## Project Documentation
+
+Explore the project documentation:
+
+- [Business Rules](documentation/business-rules.md)
+- [Workflow Overview](documentation/workflow-overview.md)
+- [Workflow Diagram](diagrams/workflow-diagram.png)
+
+## Screenshots
+
+Screenshots demonstrating the actual Make.com scenarios, lead tracking spreadsheet, and automated email examples will be added here.
+
+## Future Improvements
+
+- Introduce AI-assisted lead classification.
+- Add lead performance analytics and reporting dashboards.
+- Integrate CRM platforms.
+- Expand automated follow-up workflows.
+
+
 ## Author
 
 Solomon Pinto  
