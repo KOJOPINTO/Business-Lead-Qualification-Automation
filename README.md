@@ -105,9 +105,11 @@ Screenshots, workflow diagrams, and additional documentation will be added to th
 
 Explore the project documentation:
 
+Explore the project documentation:
+
 - [Business Rules](documentation/business-rules.md)
 - [Workflow Overview](documentation/workflow-overview.md)
-- [Workflow Diagram](diagrams/workflow-diagram.png)
+- [Workflow Diagram](documentation/workflow-diagram.png)
 
 ## Screenshots
 
