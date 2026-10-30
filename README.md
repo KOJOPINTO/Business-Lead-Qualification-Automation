@@ -46,7 +46,8 @@ This automation streamlines that process using connected business applications a
 - Low: 0–3 points
 
 ## Workflow
-![Business Lead Qualification Workflow](diagrams/workflow-diagram.png)
+
+![Business Lead Qualification Workflow](documentation/diagrams/workflow-diagram.png)
 
 
 ### 1. Lead Qualification
